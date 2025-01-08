@@ -124,7 +124,7 @@
     "typescript": "^5.4.5",
     "which": "^4.0.0",
     "yaml": "^2.4.5",
-    "zurk": "^0.3.0"
+    "zurk": "^0.9.3"
   },
   "publishConfig": {
     "registry": "https://wombat-dressing-room.appspot.com"
